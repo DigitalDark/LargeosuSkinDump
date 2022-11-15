@@ -9,4 +9,5 @@ Main Skin Repo: https://github.com/DigitalDark/DEMOON-s-osu-skins
 
 -------------------------------------------------
 
-im gonna add skins and screenshots later
+Enonnara 1.0 - 
+![screenshot421](https://user-images.githubusercontent.com/84919892/201978738-767b4b4d-7667-49c2-81d4-21d9419852d0.png)
