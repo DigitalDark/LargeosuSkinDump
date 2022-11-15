@@ -9,3 +9,4 @@ Main Skin Repo: https://github.com/DigitalDark/DEMOON-s-osu-skins
 
 -------------------------------------------------
 
+im gonna add skins and screenshots later
